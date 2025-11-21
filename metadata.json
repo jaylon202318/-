@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Clash Node Viewer",
+  "description": "A lightweight, client-side application to fetch, parse, and visualize Clash subscription nodes using React and Tailwind CSS. Supports parsing YAML subscriptions and filtering nodes.",
+  "requestFramePermissions": []
+}
